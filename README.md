@@ -3,7 +3,7 @@ To collect data from YouTube, we need to be clear about what data we need. Let�
 
 ## So, let’s start with data collection first. To collect data from YouTube, you need to set up an API. Here are the steps you can follow:
 
-1. Go to Google Cloud Console.
+1. Go to [Google Cloud Console](https://console.cloud.google.com/welcome?project=precise-data-392110&pli=1&organizationId=0).
 2. Click on the project drop-down at the top, then “New Project”.
 3. Enter a project name and click “Create”.
 4. In the Google Cloud Console, navigate to “APIs & Services” > “Library”.
